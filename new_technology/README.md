@@ -24,6 +24,9 @@
 ## 05/10/2016
 	> WooCommerce CSV importer-plugin van Allaerd Mensonides installeren
 
+## 08/10/2016
+	> werking reviews + orders bekeken
+	> logout in menu gezet
 
 
 ## Bronnen installaties:
@@ -37,6 +40,7 @@
 	Setup tutorial WooCommerce: https://www.youtube.com/watch?v=qqr7gPZ3OrI
 	WooCommerce multilingual plugins: http://www.rswebsols.com/extensions/wordpress-plugins/wordpress-translation-plugins-multilingual
 	Best WooCommerce plugins: http://www.wpbeginner.com/plugins/20-best-free-woocommerce-plugins-for-wordpress/
+	Logout in menu: http://listify.astoundify.com/article/557-how-to-create-a-logout-link-in-your-menu-using-woocommerce
 
 
 
