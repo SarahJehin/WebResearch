@@ -32,6 +32,14 @@
 	> WooCommerce currency switcher geïnstalleerd + uitgezocht (gratis versie = 2 currencies)
 	> powerpoint geupdated
 
+## 10/10/2016
+	> vergelijking van 5 multilanguage plugins (welke zijn het beste, combinatie met woocommerce, ...)
+
+## 11/10/2016
+	> extra WordPress + WooCommerce installatie om multilingual te testen
+	> Shipping methods + taxes uitgezocht
+	> plugin Ceceppa Multilingua geïnstalleerd + basis verkend
+
 
 ## Bronnen installaties:
 	https://wordpress.org/download/
@@ -46,7 +54,7 @@
 	WooCommerce multilingual plugins: http://www.rswebsols.com/extensions/wordpress-plugins/wordpress-translation-plugins-multilingual
 	Best WooCommerce plugins: http://www.wpbeginner.com/plugins/20-best-free-woocommerce-plugins-for-wordpress/
 	Logout in menu: http://listify.astoundify.com/article/557-how-to-create-a-logout-link-in-your-menu-using-woocommerce
-	
+	Setting up shipping methods in WooCommerce: https://docs.woocommerce.com/document/setting-up-shipping-zones/
 
 
 
