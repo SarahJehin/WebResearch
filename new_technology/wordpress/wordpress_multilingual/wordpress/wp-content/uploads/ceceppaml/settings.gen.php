@@ -1,12 +1,12 @@
 <?php
 /**CML: SETTINGS**/
 if ( ! defined( 'ABSPATH' ) ) die( "Access denied" );
-//Genetared by Ceceppa Multilingua - 2016-10-11 18:44
-$_cml_settings[ "default_language"] = "";
-$_cml_settings[ "default_language_id"] = "";
+//Genetared by Ceceppa Multilingua - 2016-10-14 16:05
+$_cml_settings[ "default_language"] = "English";
+$_cml_settings[ "default_language_id"] = 1;
 $_cml_settings[ "url_mode_remove_default"] = "";
-$_cml_settings[ "default_language_slug"] = "";
-$_cml_settings[ "default_language_locale"] = "";
+$_cml_settings[ "default_language_slug"] = "en";
+$_cml_settings[ "default_language_locale"] = "en_US";
 $_cml_settings[ "url_mode"] = 2;
 $_cml_settings[ "cml_show_admin_notice"] = 1;
 $_cml_settings[ "cml_code_optimization"] = 1;
@@ -52,7 +52,7 @@ $_cml_settings[ "cml_force_languge"] = 1;
 $_cml_settings[ "cml_change_date_format"] = 1;
 $_cml_settings[ "cml_show_float_items_style"] = 1;
 $_cml_settings[ "cml_show_html_items_style"] = 1;
-$_cml_settings[ "cml_update_static_page"] = 1;
+$_cml_settings[ "cml_update_static_page"] = 0;
 $_cml_settings[ "cml_remove_extra_slug"] = 1;
 
 
