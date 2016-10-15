@@ -40,6 +40,14 @@
 	> Shipping methods + taxes uitgezocht
 	> plugin Ceceppa Multilingua geïnstalleerd + basis verkend
 
+## 14/10/2016
+	> Ceceppa Multilingua support for WooCommerce geïnstalleerd --> betere ondersteuning voor producten (er wordt geen apart product per taal aangemaakt, maar alle talen worden bij 1 product beheerd)
+	> Heel erg buggy
+		vaak 404-pagina's (er wordt niet altijd goed gelinkt)
+		soms wordt je bij het veranderen van taal naar een totaal andere pagina gebracht (wel vertaald dan)
+	> Default store pages --> moeilijk te vertalen --> mogelijkheid bestaat, maar pagina's werken na updaten vaak niet meer
+	> Conclusie: gratis multilanguage plugins zijn vaak nog erg buggy en niet erg geschikt voor professionele webshops
+	> Betere oplossing: WPML for WooCommerce, maar WPML is een betalende plugin
 
 ## Bronnen installaties:
 	https://wordpress.org/download/
