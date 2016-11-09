@@ -49,6 +49,13 @@
 	> Conclusie: gratis multilanguage plugins zijn vaak nog erg buggy en niet erg geschikt voor professionele webshops
 	> Betere oplossing: WPML for WooCommerce, maar WPML is een betalende plugin
 
+## 09/11/2016
+	> Algemene settings dieper bekeken
+	> Account types: verschillen uitgezocht
+	> Downloadable product zonder account
+	> Refunding
+	> Presentatie verder uitgewerkt
+
 ## Bronnen installaties:
 	https://wordpress.org/download/
 	https://nl.wordpress.org/plugins/woocommerce/
@@ -63,6 +70,11 @@
 	Best WooCommerce plugins: http://www.wpbeginner.com/plugins/20-best-free-woocommerce-plugins-for-wordpress/
 	Logout in menu: http://listify.astoundify.com/article/557-how-to-create-a-logout-link-in-your-menu-using-woocommerce
 	Setting up shipping methods in WooCommerce: https://docs.woocommerce.com/document/setting-up-shipping-zones/
+	Digital/Downloadable products: https://docs.woocommerce.com/document/digitaldownloadable-product-handling/
+	Grouped products: https://www.youtube.com/watch?v=3JKZp0QWX0Y
+	External/Affiliate products: https://www.youtube.com/watch?v=iim_6LSkVFY
+	Account registreren: https://blogvault.net/woocommerce-customer-registrations/
+	Communicatie met klanten: https://www.sellwithwp.com/send-download-links-customers-purchase/
 
 
 

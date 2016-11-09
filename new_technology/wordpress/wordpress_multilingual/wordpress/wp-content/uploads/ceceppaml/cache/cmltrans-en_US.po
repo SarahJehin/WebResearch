@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: cml_translations\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-14 06:11+0100\n"
-"PO-Revision-Date: 2016-10-14 06:11+0100\n"
+"POT-Creation-Date: 2016-11-09 08:14+0100\n"
+"PO-Revision-Date: 2016-11-09 08:14+0100\n"
 "Last-Translator:   <sarah.jehin@belgacom.net>\n"
 "Language-Team: \n"
 "Language: %LOCALE%\n"
@@ -34,6 +34,21 @@ msgstr "testtopje"
 msgid "_nl__product_27"
 msgstr "testtop-nl"
 
+msgid "_nl__product_91"
+msgstr "gelaagd-topje"
+
+msgid "_nl__product_100"
+msgstr "maak-je-eigen-franjes-topje-handleiding"
+
+msgid "_nl_currency"
+msgstr "Valuta"
+
+msgid "_nl__product_109"
+msgstr "test"
+
+msgid "_nl__product_90"
+msgstr "tank-top-met-gekruiste-rug"
+
 msgid "_nl__product_73"
 msgstr "tweede-product"
 
@@ -57,6 +72,18 @@ msgstr "debardeur-de-teste"
 
 msgid "_fr__product_27"
 msgstr "produit-de-test-fr"
+
+msgid "_fr__product_91"
+msgstr "debardeur-stratifie"
+
+msgid "_fr__product_100"
+msgstr "creez-votre-meme-debardeur-frange-le-guide"
+
+msgid "_fr_currency"
+msgstr "La monnaie"
+
+msgid "_fr__product_90"
+msgstr "debardeur-avec-dos-croise"
 
 msgid "_fr__product_73"
 msgstr "deuxieme-produit"
@@ -193,15 +220,6 @@ msgstr "a:5:{s:2:\"en\";s:2:\"71\";s:2:\"nl\";s:2:\"71\";s:2:\"fr\";s:2:\"71\";s
 msgid "__cml_lang_4__71"
 msgstr "a:5:{s:2:\"en\";s:2:\"71\";s:2:\"nl\";s:2:\"71\";s:2:\"fr\";s:2:\"71\";s:7:\"indexes\";a:3:{s:2:\"en\";s:2:\"71\";s:2:\"nl\";s:2:\"71\";s:2:\"fr\";s:2:\"71\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:2:\"71\";s:2:\"fr\";s:2:\"71\";}}"
 
-msgid "__cml_lang_1__73"
-msgstr "a:5:{s:2:\"en\";s:2:\"73\";s:2:\"nl\";s:2:\"73\";s:2:\"fr\";s:2:\"73\";s:7:\"indexes\";a:3:{s:2:\"en\";s:2:\"73\";s:2:\"nl\";s:2:\"73\";s:2:\"fr\";s:2:\"73\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:2:\"73\";s:2:\"fr\";s:2:\"73\";}}"
-
-msgid "__cml_lang_2__73"
-msgstr "a:5:{s:2:\"en\";s:2:\"73\";s:2:\"nl\";s:2:\"73\";s:2:\"fr\";s:2:\"73\";s:7:\"indexes\";a:3:{s:2:\"en\";s:2:\"73\";s:2:\"nl\";s:2:\"73\";s:2:\"fr\";s:2:\"73\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:2:\"73\";s:2:\"fr\";s:2:\"73\";}}"
-
-msgid "__cml_lang_4__73"
-msgstr "a:5:{s:2:\"en\";s:2:\"73\";s:2:\"nl\";s:2:\"73\";s:2:\"fr\";s:2:\"73\";s:7:\"indexes\";a:3:{s:2:\"en\";s:2:\"73\";s:2:\"nl\";s:2:\"73\";s:2:\"fr\";s:2:\"73\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:2:\"73\";s:2:\"fr\";s:2:\"73\";}}"
-
 msgid "__cml_lang_1__74"
 msgstr "a:5:{s:2:\"en\";s:2:\"74\";s:2:\"nl\";s:2:\"74\";s:2:\"fr\";s:2:\"74\";s:7:\"indexes\";a:3:{s:2:\"en\";s:2:\"74\";s:2:\"nl\";s:2:\"74\";s:2:\"fr\";s:2:\"74\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:2:\"74\";s:2:\"fr\";s:2:\"74\";}}"
 
@@ -285,6 +303,87 @@ msgstr "a:5:{s:2:\"en\";s:2:\"37\";s:2:\"nl\";s:2:\"37\";s:2:\"fr\";s:2:\"37\";s
 
 msgid "__cml_lang_4__37"
 msgstr "a:5:{s:2:\"en\";s:2:\"37\";s:2:\"nl\";s:2:\"37\";s:2:\"fr\";s:2:\"37\";s:7:\"indexes\";a:3:{s:2:\"en\";s:2:\"37\";s:2:\"nl\";s:2:\"37\";s:2:\"fr\";s:2:\"37\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:2:\"37\";s:2:\"fr\";s:2:\"37\";}}"
+
+msgid "__cml_lang_1__91"
+msgstr "a:5:{s:2:\"en\";s:2:\"91\";s:2:\"nl\";s:2:\"91\";s:2:\"fr\";s:2:\"91\";s:7:\"indexes\";a:3:{s:2:\"en\";s:2:\"91\";s:2:\"nl\";s:2:\"91\";s:2:\"fr\";s:2:\"91\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:2:\"91\";s:2:\"fr\";s:2:\"91\";}}"
+
+msgid "__cml_lang_2__91"
+msgstr "a:5:{s:2:\"en\";s:2:\"91\";s:2:\"nl\";s:2:\"91\";s:2:\"fr\";s:2:\"91\";s:7:\"indexes\";a:3:{s:2:\"en\";s:2:\"91\";s:2:\"nl\";s:2:\"91\";s:2:\"fr\";s:2:\"91\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:2:\"91\";s:2:\"fr\";s:2:\"91\";}}"
+
+msgid "__cml_lang_4__91"
+msgstr "a:5:{s:2:\"en\";s:2:\"91\";s:2:\"nl\";s:2:\"91\";s:2:\"fr\";s:2:\"91\";s:7:\"indexes\";a:3:{s:2:\"en\";s:2:\"91\";s:2:\"nl\";s:2:\"91\";s:2:\"fr\";s:2:\"91\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:2:\"91\";s:2:\"fr\";s:2:\"91\";}}"
+
+msgid "__cml_lang_1__100"
+msgstr "a:5:{s:2:\"en\";s:3:\"100\";s:2:\"nl\";s:3:\"100\";s:2:\"fr\";s:3:\"100\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"100\";s:2:\"nl\";s:3:\"100\";s:2:\"fr\";s:3:\"100\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"100\";s:2:\"fr\";s:3:\"100\";}}"
+
+msgid "__cml_lang_2__100"
+msgstr "a:5:{s:2:\"en\";s:3:\"100\";s:2:\"nl\";s:3:\"100\";s:2:\"fr\";s:3:\"100\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"100\";s:2:\"nl\";s:3:\"100\";s:2:\"fr\";s:3:\"100\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"100\";s:2:\"fr\";s:3:\"100\";}}"
+
+msgid "__cml_lang_4__100"
+msgstr "a:5:{s:2:\"en\";s:3:\"100\";s:2:\"nl\";s:3:\"100\";s:2:\"fr\";s:3:\"100\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"100\";s:2:\"nl\";s:3:\"100\";s:2:\"fr\";s:3:\"100\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"100\";s:2:\"fr\";s:3:\"100\";}}"
+
+msgid "__cml_lang_1__104"
+msgstr "a:5:{s:2:\"en\";s:3:\"104\";s:2:\"nl\";s:3:\"104\";s:2:\"fr\";s:3:\"104\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"104\";s:2:\"nl\";s:3:\"104\";s:2:\"fr\";s:3:\"104\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"104\";s:2:\"fr\";s:3:\"104\";}}"
+
+msgid "__cml_lang_2__104"
+msgstr "a:5:{s:2:\"en\";s:3:\"104\";s:2:\"nl\";s:3:\"104\";s:2:\"fr\";s:3:\"104\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"104\";s:2:\"nl\";s:3:\"104\";s:2:\"fr\";s:3:\"104\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"104\";s:2:\"fr\";s:3:\"104\";}}"
+
+msgid "__cml_lang_4__104"
+msgstr "a:5:{s:2:\"en\";s:3:\"104\";s:2:\"nl\";s:3:\"104\";s:2:\"fr\";s:3:\"104\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"104\";s:2:\"nl\";s:3:\"104\";s:2:\"fr\";s:3:\"104\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"104\";s:2:\"fr\";s:3:\"104\";}}"
+
+msgid "__cml_lang_1__105"
+msgstr "a:5:{s:2:\"en\";s:3:\"105\";s:2:\"nl\";s:3:\"105\";s:2:\"fr\";s:3:\"105\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"105\";s:2:\"nl\";s:3:\"105\";s:2:\"fr\";s:3:\"105\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"105\";s:2:\"fr\";s:3:\"105\";}}"
+
+msgid "__cml_lang_2__105"
+msgstr "a:5:{s:2:\"en\";s:3:\"105\";s:2:\"nl\";s:3:\"105\";s:2:\"fr\";s:3:\"105\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"105\";s:2:\"nl\";s:3:\"105\";s:2:\"fr\";s:3:\"105\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"105\";s:2:\"fr\";s:3:\"105\";}}"
+
+msgid "__cml_lang_4__105"
+msgstr "a:5:{s:2:\"en\";s:3:\"105\";s:2:\"nl\";s:3:\"105\";s:2:\"fr\";s:3:\"105\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"105\";s:2:\"nl\";s:3:\"105\";s:2:\"fr\";s:3:\"105\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"105\";s:2:\"fr\";s:3:\"105\";}}"
+
+msgid "__cml_lang_1__109"
+msgstr "a:5:{s:2:\"en\";s:3:\"109\";s:2:\"nl\";s:3:\"109\";s:2:\"fr\";s:3:\"109\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"109\";s:2:\"nl\";s:3:\"109\";s:2:\"fr\";s:3:\"109\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"109\";s:2:\"fr\";s:3:\"109\";}}"
+
+msgid "__cml_lang_2__109"
+msgstr "a:5:{s:2:\"en\";s:3:\"109\";s:2:\"nl\";s:3:\"109\";s:2:\"fr\";s:3:\"109\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"109\";s:2:\"nl\";s:3:\"109\";s:2:\"fr\";s:3:\"109\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"109\";s:2:\"fr\";s:3:\"109\";}}"
+
+msgid "__cml_lang_4__109"
+msgstr "a:5:{s:2:\"en\";s:3:\"109\";s:2:\"nl\";s:3:\"109\";s:2:\"fr\";s:3:\"109\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"109\";s:2:\"nl\";s:3:\"109\";s:2:\"fr\";s:3:\"109\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"109\";s:2:\"fr\";s:3:\"109\";}}"
+
+msgid "__cml_lang_1__110"
+msgstr "a:5:{s:2:\"en\";s:3:\"110\";s:2:\"nl\";s:3:\"110\";s:2:\"fr\";s:3:\"110\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"110\";s:2:\"nl\";s:3:\"110\";s:2:\"fr\";s:3:\"110\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"110\";s:2:\"fr\";s:3:\"110\";}}"
+
+msgid "__cml_lang_2__110"
+msgstr "a:5:{s:2:\"en\";s:3:\"110\";s:2:\"nl\";s:3:\"110\";s:2:\"fr\";s:3:\"110\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"110\";s:2:\"nl\";s:3:\"110\";s:2:\"fr\";s:3:\"110\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"110\";s:2:\"fr\";s:3:\"110\";}}"
+
+msgid "__cml_lang_4__110"
+msgstr "a:5:{s:2:\"en\";s:3:\"110\";s:2:\"nl\";s:3:\"110\";s:2:\"fr\";s:3:\"110\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"110\";s:2:\"nl\";s:3:\"110\";s:2:\"fr\";s:3:\"110\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"110\";s:2:\"fr\";s:3:\"110\";}}"
+
+msgid "__cml_lang_1__114"
+msgstr "a:5:{s:2:\"en\";s:3:\"114\";s:2:\"nl\";s:3:\"114\";s:2:\"fr\";s:3:\"114\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"114\";s:2:\"nl\";s:3:\"114\";s:2:\"fr\";s:3:\"114\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"114\";s:2:\"fr\";s:3:\"114\";}}"
+
+msgid "__cml_lang_2__114"
+msgstr "a:5:{s:2:\"en\";s:3:\"114\";s:2:\"nl\";s:3:\"114\";s:2:\"fr\";s:3:\"114\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"114\";s:2:\"nl\";s:3:\"114\";s:2:\"fr\";s:3:\"114\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"114\";s:2:\"fr\";s:3:\"114\";}}"
+
+msgid "__cml_lang_4__114"
+msgstr "a:5:{s:2:\"en\";s:3:\"114\";s:2:\"nl\";s:3:\"114\";s:2:\"fr\";s:3:\"114\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"114\";s:2:\"nl\";s:3:\"114\";s:2:\"fr\";s:3:\"114\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"114\";s:2:\"fr\";s:3:\"114\";}}"
+
+msgid "__cml_lang_1__90"
+msgstr "a:5:{s:2:\"en\";s:2:\"90\";s:2:\"nl\";s:2:\"90\";s:2:\"fr\";s:2:\"90\";s:7:\"indexes\";a:3:{s:2:\"en\";s:2:\"90\";s:2:\"nl\";s:2:\"90\";s:2:\"fr\";s:2:\"90\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:2:\"90\";s:2:\"fr\";s:2:\"90\";}}"
+
+msgid "__cml_lang_2__90"
+msgstr "a:5:{s:2:\"en\";s:2:\"90\";s:2:\"nl\";s:2:\"90\";s:2:\"fr\";s:2:\"90\";s:7:\"indexes\";a:3:{s:2:\"en\";s:2:\"90\";s:2:\"nl\";s:2:\"90\";s:2:\"fr\";s:2:\"90\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:2:\"90\";s:2:\"fr\";s:2:\"90\";}}"
+
+msgid "__cml_lang_4__90"
+msgstr "a:5:{s:2:\"en\";s:2:\"90\";s:2:\"nl\";s:2:\"90\";s:2:\"fr\";s:2:\"90\";s:7:\"indexes\";a:3:{s:2:\"en\";s:2:\"90\";s:2:\"nl\";s:2:\"90\";s:2:\"fr\";s:2:\"90\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:2:\"90\";s:2:\"fr\";s:2:\"90\";}}"
+
+msgid "__cml_lang_1__73"
+msgstr "a:5:{s:2:\"en\";s:2:\"73\";s:2:\"nl\";s:2:\"73\";s:2:\"fr\";s:2:\"73\";s:7:\"indexes\";a:3:{s:2:\"en\";s:2:\"73\";s:2:\"nl\";s:2:\"73\";s:2:\"fr\";s:2:\"73\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:2:\"73\";s:2:\"fr\";s:2:\"73\";}}"
+
+msgid "__cml_lang_2__73"
+msgstr "a:5:{s:2:\"en\";s:2:\"73\";s:2:\"nl\";s:2:\"73\";s:2:\"fr\";s:2:\"73\";s:7:\"indexes\";a:3:{s:2:\"en\";s:2:\"73\";s:2:\"nl\";s:2:\"73\";s:2:\"fr\";s:2:\"73\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:2:\"73\";s:2:\"fr\";s:2:\"73\";}}"
+
+msgid "__cml_lang_4__73"
+msgstr "a:5:{s:2:\"en\";s:2:\"73\";s:2:\"nl\";s:2:\"73\";s:2:\"fr\";s:2:\"73\";s:7:\"indexes\";a:3:{s:2:\"en\";s:2:\"73\";s:2:\"nl\";s:2:\"73\";s:2:\"fr\";s:2:\"73\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:2:\"73\";s:2:\"fr\";s:2:\"73\";}}"
 
 msgid "__cml_override_flags_21"
 msgstr "a:3:{s:4:\"show\";s:7:\"default\";s:4:\"size\";s:5:\"small\";s:5:\"where\";s:3:\"top\";}"
@@ -382,6 +481,30 @@ msgstr "a:3:{s:4:\"show\";s:7:\"default\";s:4:\"size\";s:5:\"small\";s:5:\"where
 msgid "__cml_override_flags_86"
 msgstr "a:3:{s:4:\"show\";s:5:\"never\";s:4:\"size\";s:5:\"small\";s:5:\"where\";s:3:\"top\";}"
 
+msgid "__cml_override_flags_90"
+msgstr "a:3:{s:4:\"show\";N;s:4:\"size\";N;s:5:\"where\";N;}"
+
+msgid "__cml_override_flags_91"
+msgstr "a:3:{s:4:\"show\";N;s:4:\"size\";N;s:5:\"where\";N;}"
+
+msgid "__cml_override_flags_100"
+msgstr "a:3:{s:4:\"show\";N;s:4:\"size\";N;s:5:\"where\";N;}"
+
+msgid "__cml_override_flags_104"
+msgstr "a:3:{s:4:\"show\";N;s:4:\"size\";N;s:5:\"where\";N;}"
+
+msgid "__cml_override_flags_105"
+msgstr "a:3:{s:4:\"show\";s:7:\"default\";s:4:\"size\";s:5:\"small\";s:5:\"where\";s:3:\"top\";}"
+
+msgid "__cml_override_flags_109"
+msgstr "a:3:{s:4:\"show\";N;s:4:\"size\";N;s:5:\"where\";N;}"
+
+msgid "__cml_override_flags_110"
+msgstr "a:3:{s:4:\"show\";N;s:4:\"size\";N;s:5:\"where\";N;}"
+
+msgid "__cml_override_flags_114"
+msgstr "a:3:{s:4:\"show\";s:7:\"default\";s:4:\"size\";s:5:\"small\";s:5:\"where\";s:3:\"top\";}"
+
 msgid "_cml_menu_meta_fr_13"
 msgstr "a:2:{s:5:\"title\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
 
@@ -412,15 +535,21 @@ msgstr "a:2:{s:5:\"title\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
 msgid "_cml_menu_meta_nl_10"
 msgstr "a:2:{s:5:\"title\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
 
-msgid "_cml_menu_meta_fr_18"
-msgstr "a:3:{s:5:\"title\";s:0:\"\";s:9:\"url_value\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
-
-msgid "_cml_menu_meta_nl_18"
-msgstr "a:3:{s:5:\"title\";s:0:\"\";s:9:\"url_value\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
-
 msgid "_cml_menu_meta_fr_72"
 msgstr "a:2:{s:5:\"title\";s:6:\"Panier\";s:10:\"attr_title\";s:0:\"\";}"
 
 msgid "_cml_menu_meta_nl_72"
 msgstr "a:2:{s:5:\"title\";s:14:\"Winkelwagentje\";s:10:\"attr_title\";s:0:\"\";}"
+
+msgid "_cml_menu_meta_fr_103"
+msgstr "a:2:{s:5:\"title\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
+
+msgid "_cml_menu_meta_nl_103"
+msgstr "a:2:{s:5:\"title\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
+
+msgid "_cml_menu_meta_fr_112"
+msgstr "a:3:{s:5:\"title\";s:0:\"\";s:9:\"url_value\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
+
+msgid "_cml_menu_meta_nl_112"
+msgstr "a:3:{s:5:\"title\";s:0:\"\";s:9:\"url_value\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
 
