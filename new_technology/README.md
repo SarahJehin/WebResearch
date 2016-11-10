@@ -56,6 +56,11 @@
 	> Refunding
 	> Presentatie verder uitgewerkt
 
+## 10/11/2016
+	> Payment systems: PayPal, PayPal Braintree (ook kaarten), Stripe, Pay.be (niet geïmplementeerd, wel bekeken hoe te implementeren)
+	> Taxes en shipping classes
+	> Presentatie afgewerkt
+
 ## Bronnen installaties:
 	https://wordpress.org/download/
 	https://nl.wordpress.org/plugins/woocommerce/
@@ -75,6 +80,11 @@
 	External/Affiliate products: https://www.youtube.com/watch?v=iim_6LSkVFY
 	Account registreren: https://blogvault.net/woocommerce-customer-registrations/
 	Communicatie met klanten: https://www.sellwithwp.com/send-download-links-customers-purchase/
+	PayPal implementatie: https://docs.woocommerce.com/document/paypal-standard/
+	WooCommerce Stripe: https://woocommerce.com/products/stripe/
+	Stripe: https://stripe.com/be/pricing
+	Pay.be: http://pay.be/webshops/plugins#anchor-plugins
+	Shipping rates: https://docs.woocommerce.com/document/flat-rate-shipping/
 
 
 
