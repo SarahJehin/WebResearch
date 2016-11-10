@@ -23,6 +23,9 @@
 	> Algemene zaken (taal en valuta) opties vergeleken
 	> Orders plaatsen vergeleken
 	> Opvolging van orders en rapporten vergeleken
+	> Returning products
+	> Tax settings in opencart
+	> Presentatie uitgewerkt
 
 
 ## Bronnen installaties:
