@@ -13,8 +13,17 @@
 	> Image upload is toch mogelijk zonder kopiëren naar de folder -> je kan ze wel uploaden vanaf je computer naar de image manager en vanaf daar selecteren
 	> OpenCart orders plaatsen (IP en API error = simpel op te lossen)
 	> OpenCart variabele producten (met options en attributes) uitgezocht
+	> Producten toevoegen vergeleken
 	> Voordelen van OpenCart tegenover WooCommerce verkend (bvb product comparison)
 	> Menu opbouw + categorieën aanmaken en nesten
+
+## 10/11/2016
+	> Recurring profiles
+	> Downloadable products
+	> Algemene zaken (taal en valuta) opties vergeleken
+	> Orders plaatsen vergeleken
+	> Opvolging van orders en rapporten vergeleken
+
 
 ## Bronnen installaties:
 	https://www.magentocommerce.com/download?_ga=1.65092328.759404278.1474877426

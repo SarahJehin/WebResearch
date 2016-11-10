@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: cml_translations\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-09 10:54+0100\n"
-"PO-Revision-Date: 2016-11-09 10:54+0100\n"
+"POT-Creation-Date: 2016-11-10 04:17+0100\n"
+"PO-Revision-Date: 2016-11-10 04:17+0100\n"
 "Last-Translator:   <sarah.jehin@belgacom.net>\n"
 "Language-Team: \n"
 "Language: %LOCALE%\n"
@@ -52,8 +52,14 @@ msgstr "tank-top-met-gekruiste-rug"
 msgid "_nl__product_73"
 msgstr "tweede-product"
 
+msgid "_nl__product_117"
+msgstr "nike-pro-tank"
+
 msgid "_nl_product_cat_womens-tops"
 msgstr "Vrouwen tops"
+
+msgid "_nl_product_cat_sport-tops"
+msgstr "Sport topjes"
 
 msgid "_fr_shop2top"
 msgstr "Shop2Top"
@@ -88,8 +94,14 @@ msgstr "debardeur-avec-dos-croise"
 msgid "_fr__product_73"
 msgstr "deuxieme-produit"
 
+msgid "_fr__product_117"
+msgstr "nike-pro-tank"
+
 msgid "_fr_product_cat_womens-tops"
 msgstr "Débardeurs femme"
+
+msgid "_fr_product_cat_sport-tops"
+msgstr "Débardeurs sportifs"
 
 msgid "__cml_lang_1__21"
 msgstr "a:5:{s:2:\"en\";s:2:\"21\";s:2:\"nl\";s:2:\"23\";s:2:\"fr\";s:2:\"24\";s:7:\"indexes\";a:3:{s:2:\"en\";s:2:\"21\";s:2:\"nl\";s:2:\"23\";s:2:\"fr\";s:2:\"24\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:2:\"23\";s:2:\"fr\";s:2:\"24\";}}"
@@ -385,6 +397,15 @@ msgstr "a:5:{s:2:\"en\";s:2:\"73\";s:2:\"nl\";s:2:\"73\";s:2:\"fr\";s:2:\"73\";s
 msgid "__cml_lang_4__73"
 msgstr "a:5:{s:2:\"en\";s:2:\"73\";s:2:\"nl\";s:2:\"73\";s:2:\"fr\";s:2:\"73\";s:7:\"indexes\";a:3:{s:2:\"en\";s:2:\"73\";s:2:\"nl\";s:2:\"73\";s:2:\"fr\";s:2:\"73\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:2:\"73\";s:2:\"fr\";s:2:\"73\";}}"
 
+msgid "__cml_lang_1__117"
+msgstr "a:5:{s:2:\"en\";s:3:\"117\";s:2:\"nl\";s:3:\"117\";s:2:\"fr\";s:3:\"117\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"117\";s:2:\"nl\";s:3:\"117\";s:2:\"fr\";s:3:\"117\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"117\";s:2:\"fr\";s:3:\"117\";}}"
+
+msgid "__cml_lang_2__117"
+msgstr "a:5:{s:2:\"en\";s:3:\"117\";s:2:\"nl\";s:3:\"117\";s:2:\"fr\";s:3:\"117\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"117\";s:2:\"nl\";s:3:\"117\";s:2:\"fr\";s:3:\"117\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"117\";s:2:\"fr\";s:3:\"117\";}}"
+
+msgid "__cml_lang_4__117"
+msgstr "a:5:{s:2:\"en\";s:3:\"117\";s:2:\"nl\";s:3:\"117\";s:2:\"fr\";s:3:\"117\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"117\";s:2:\"nl\";s:3:\"117\";s:2:\"fr\";s:3:\"117\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"117\";s:2:\"fr\";s:3:\"117\";}}"
+
 msgid "__cml_override_flags_21"
 msgstr "a:3:{s:4:\"show\";s:7:\"default\";s:4:\"size\";s:5:\"small\";s:5:\"where\";s:3:\"top\";}"
 
@@ -505,6 +526,9 @@ msgstr "a:3:{s:4:\"show\";N;s:4:\"size\";N;s:5:\"where\";N;}"
 msgid "__cml_override_flags_114"
 msgstr "a:3:{s:4:\"show\";s:7:\"default\";s:4:\"size\";s:5:\"small\";s:5:\"where\";s:3:\"top\";}"
 
+msgid "__cml_override_flags_117"
+msgstr "a:3:{s:4:\"show\";N;s:4:\"size\";N;s:5:\"where\";N;}"
+
 msgid "_cml_menu_meta_fr_13"
 msgstr "a:2:{s:5:\"title\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
 
@@ -552,4 +576,10 @@ msgstr "a:3:{s:5:\"title\";s:0:\"\";s:9:\"url_value\";s:0:\"\";s:10:\"attr_title
 
 msgid "_cml_menu_meta_nl_112"
 msgstr "a:3:{s:5:\"title\";s:0:\"\";s:9:\"url_value\";s:0:\"\";s:10:\"attr_title\";s:0:\"\";}"
+
+msgid "_cml_menu_meta_fr_119"
+msgstr "a:2:{s:5:\"title\";s:20:\"Débardeurs sportifs\";s:10:\"attr_title\";s:0:\"\";}"
+
+msgid "_cml_menu_meta_nl_119"
+msgstr "a:2:{s:5:\"title\";s:12:\"Sport topjes\";s:10:\"attr_title\";s:0:\"\";}"
 
