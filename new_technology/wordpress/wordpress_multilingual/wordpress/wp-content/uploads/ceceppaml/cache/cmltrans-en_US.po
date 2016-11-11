@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: cml_translations\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-10 04:17+0100\n"
-"PO-Revision-Date: 2016-11-10 04:17+0100\n"
+"POT-Creation-Date: 2016-11-11 05:19+0100\n"
+"PO-Revision-Date: 2016-11-11 05:19+0100\n"
 "Last-Translator:   <sarah.jehin@belgacom.net>\n"
 "Language-Team: \n"
 "Language: %LOCALE%\n"
@@ -55,11 +55,29 @@ msgstr "tweede-product"
 msgid "_nl__product_117"
 msgstr "nike-pro-tank"
 
+msgid "_nl__product_123"
+msgstr "kimchi-blue-amelia-pleated-cami"
+
 msgid "_nl_product_cat_womens-tops"
 msgstr "Vrouwen tops"
 
 msgid "_nl_product_cat_sport-tops"
 msgstr "Sport topjes"
+
+msgid "_nl_pa_size_xxs"
+msgstr "XXS"
+
+msgid "_nl_pa_size_xs"
+msgstr "XS"
+
+msgid "_nl_pa_size_s"
+msgstr "S"
+
+msgid "_nl_pa_size_m"
+msgstr "M"
+
+msgid "_nl_pa_size_l"
+msgstr "L"
 
 msgid "_fr_shop2top"
 msgstr "Shop2Top"
@@ -97,11 +115,29 @@ msgstr "deuxieme-produit"
 msgid "_fr__product_117"
 msgstr "nike-pro-tank"
 
+msgid "_fr__product_123"
+msgstr "kimchi-blue-amelia-pleated-cami"
+
 msgid "_fr_product_cat_womens-tops"
 msgstr "Débardeurs femme"
 
 msgid "_fr_product_cat_sport-tops"
 msgstr "Débardeurs sportifs"
+
+msgid "_fr_pa_size_xxs"
+msgstr "XXS"
+
+msgid "_fr_pa_size_xs"
+msgstr "XS"
+
+msgid "_fr_pa_size_s"
+msgstr "S"
+
+msgid "_fr_pa_size_m"
+msgstr "M"
+
+msgid "_fr_pa_size_l"
+msgstr "L"
 
 msgid "__cml_lang_1__21"
 msgstr "a:5:{s:2:\"en\";s:2:\"21\";s:2:\"nl\";s:2:\"23\";s:2:\"fr\";s:2:\"24\";s:7:\"indexes\";a:3:{s:2:\"en\";s:2:\"21\";s:2:\"nl\";s:2:\"23\";s:2:\"fr\";s:2:\"24\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:2:\"23\";s:2:\"fr\";s:2:\"24\";}}"
@@ -406,6 +442,24 @@ msgstr "a:5:{s:2:\"en\";s:3:\"117\";s:2:\"nl\";s:3:\"117\";s:2:\"fr\";s:3:\"117\
 msgid "__cml_lang_4__117"
 msgstr "a:5:{s:2:\"en\";s:3:\"117\";s:2:\"nl\";s:3:\"117\";s:2:\"fr\";s:3:\"117\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"117\";s:2:\"nl\";s:3:\"117\";s:2:\"fr\";s:3:\"117\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"117\";s:2:\"fr\";s:3:\"117\";}}"
 
+msgid "__cml_lang_1__123"
+msgstr "a:5:{s:2:\"en\";s:3:\"123\";s:2:\"nl\";s:3:\"123\";s:2:\"fr\";s:3:\"123\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"123\";s:2:\"nl\";s:3:\"123\";s:2:\"fr\";s:3:\"123\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"123\";s:2:\"fr\";s:3:\"123\";}}"
+
+msgid "__cml_lang_2__123"
+msgstr "a:5:{s:2:\"en\";s:3:\"123\";s:2:\"nl\";s:3:\"123\";s:2:\"fr\";s:3:\"123\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"123\";s:2:\"nl\";s:3:\"123\";s:2:\"fr\";s:3:\"123\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"123\";s:2:\"fr\";s:3:\"123\";}}"
+
+msgid "__cml_lang_4__123"
+msgstr "a:5:{s:2:\"en\";s:3:\"123\";s:2:\"nl\";s:3:\"123\";s:2:\"fr\";s:3:\"123\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"123\";s:2:\"nl\";s:3:\"123\";s:2:\"fr\";s:3:\"123\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"123\";s:2:\"fr\";s:3:\"123\";}}"
+
+msgid "__cml_lang_1__122"
+msgstr "a:5:{s:2:\"en\";s:3:\"122\";s:2:\"nl\";s:3:\"122\";s:2:\"fr\";s:3:\"122\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"122\";s:2:\"nl\";s:3:\"122\";s:2:\"fr\";s:3:\"122\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"122\";s:2:\"fr\";s:3:\"122\";}}"
+
+msgid "__cml_lang_2__122"
+msgstr "a:5:{s:2:\"en\";s:3:\"122\";s:2:\"nl\";s:3:\"122\";s:2:\"fr\";s:3:\"122\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"122\";s:2:\"nl\";s:3:\"122\";s:2:\"fr\";s:3:\"122\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"122\";s:2:\"fr\";s:3:\"122\";}}"
+
+msgid "__cml_lang_4__122"
+msgstr "a:5:{s:2:\"en\";s:3:\"122\";s:2:\"nl\";s:3:\"122\";s:2:\"fr\";s:3:\"122\";s:7:\"indexes\";a:3:{s:2:\"en\";s:3:\"122\";s:2:\"nl\";s:3:\"122\";s:2:\"fr\";s:3:\"122\";}s:6:\"linked\";a:2:{s:2:\"nl\";s:3:\"122\";s:2:\"fr\";s:3:\"122\";}}"
+
 msgid "__cml_override_flags_21"
 msgstr "a:3:{s:4:\"show\";s:7:\"default\";s:4:\"size\";s:5:\"small\";s:5:\"where\";s:3:\"top\";}"
 
@@ -527,6 +581,12 @@ msgid "__cml_override_flags_114"
 msgstr "a:3:{s:4:\"show\";s:7:\"default\";s:4:\"size\";s:5:\"small\";s:5:\"where\";s:3:\"top\";}"
 
 msgid "__cml_override_flags_117"
+msgstr "a:3:{s:4:\"show\";N;s:4:\"size\";N;s:5:\"where\";N;}"
+
+msgid "__cml_override_flags_123"
+msgstr "a:3:{s:4:\"show\";N;s:4:\"size\";N;s:5:\"where\";N;}"
+
+msgid "__cml_override_flags_122"
 msgstr "a:3:{s:4:\"show\";N;s:4:\"size\";N;s:5:\"where\";N;}"
 
 msgid "_cml_menu_meta_fr_13"

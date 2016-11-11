@@ -42,5 +42,9 @@
 	Attributes werking: http://docs.opencart.com/catalog/attribute/
 	Options werking: http://docs.opencart.com/catalog/option/
 	Own css on information pages: http://forum.opencart.com/viewtopic.php?f=19&t=58073
+	Add recurring on product page not working: https://forum.opencart.com/viewtopic.php?f=190&t=157976
+	WooCommerce capacity: https://marketpress.com/2013/maximum-size-for-woocommerce-shops/
+	OpenCart capacity: https://www.quora.com/What-is-the-maximum-capacity-of-opencart-How-many-products-we-can-add
+	Opencart vs WooCommerce: https://comparisons.financesonline.com/opencart-vs-woocommerce
 
 
