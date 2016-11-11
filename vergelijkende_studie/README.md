@@ -27,6 +27,11 @@
 	> Tax settings in opencart
 	> Presentatie uitgewerkt
 
+## 10/11/2016
+	> tax settings en shipping rates verder bekeken
+	> voordelen tov woocommerce: oa grotere capaciteit, betere layout, talen zijn makkelijker te integreren, image cropping
+	> nadelen tov woocommerce: minder gebruiksvriendelijk (indeling = chaotischer, zoekopties), algemene documentatie en plugins
+
 
 ## Bronnen installaties:
 	https://www.magentocommerce.com/download?_ga=1.65092328.759404278.1474877426

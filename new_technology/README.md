@@ -61,6 +61,11 @@
 	> Taxes en shipping classes
 	> Presentatie afgewerkt
 
+## 11/11/2016
+	> Menu on responsive klopt niet > menu's > theme locations > handheld menu
+	> Betaling met PayPal bekeken --> sandbox accounts
+
+
 ## Bronnen installaties:
 	https://wordpress.org/download/
 	https://nl.wordpress.org/plugins/woocommerce/
@@ -85,6 +90,7 @@
 	Stripe: https://stripe.com/be/pricing
 	Pay.be: http://pay.be/webshops/plugins#anchor-plugins
 	Shipping rates: https://docs.woocommerce.com/document/flat-rate-shipping/
+	PayPal sandbox: https://developer.paypal.com/
 
 
 
